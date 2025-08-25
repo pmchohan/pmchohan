@@ -1,18 +1,30 @@
 ### Hey folks, Assalam-u-Alaikum 👋
 
-This is Abdullah Faisal, currently enrolled in BS (AI) at University of Management and Technology, Lahore.
+I’m **Abdullah Faisal**—an AI & backend enthusiast who loves turning ideas into working products. I’m more on the *“Einstein”* side of the spectrum: I enjoy solving problems with logic, which helps with code (and life) just as much.
 
-I have always had interest in computers and modern tech since i was a kid. Thats why from matric to higher education i have kept consistency. As AI is booming in this era I have developed interest in Computer Vision and Generative AI.
+I started with **C++**, and these days I build most of my AI work in **Python**. I’m especially interested in **Generative AI** and **Computer Vision**. I’ve also been active in the tech community—previously part of the **GDSC UMT AI/ML team** and a **Block President** in the Leaders’ Forum. Lately, I’ve picked up an interest in **competitive programming**.
 
-You might have heard that there are two types of people "Picasso" or "Einstein", well I am more on Einstein side. I love solving problems using logic, which I think helps not just with coding but with life in general.
+I’m always learning new stuff and sharing what I know with juniors—the kind of guidance I wish I’d had when starting out.
 
-I'm good at using C++ and Python. I started with C++ and now I'm learning a lot about AI with Python.
+#### What I’m exploring
 
-Talking about university's life, I am a part of AI/ML team of GDSC UMT and President of my Block from Leader's Forum.
-Recently i have grown interest in competitive programming as well.
+* 🌱 NLP, Computer Vision, JavaScript
+* 💡 GenAI apps and practical ML features
 
-Now a days I am trying to learn new stuff and help my juniors with the guidance which i think i lacked when i started.
+#### Tech I use
 
-- 🌱 I’m currently learning NLP, Computer Vision, JS
-- 📫 How to reach me: [LinkedIn](linkedin.com/in/abdullahfaisal9), [Instagram](instagram.com/abdullah.pptx/)
-- ⚡ Fun fact: I also call my self PM Chohan, where PM means Pakistani Munda. Munda is punjabi of Boy and Chohan is just my family name
+* **Python**, **C++**, **Node.js**
+* **FastAPI · Flask · Django**
+* **NLP · Computer Vision · OpenAI integrations**
+* **Neo4j · MySQL · Firebase**
+* **Git · Data Structures · OOP**
+* (Plus the usual **Microsoft Office** tools)
+
+#### Connect
+
+* 📫 [LinkedIn](https://linkedin.com/in/abdullahfaisal9) · [Instagram](https://instagram.com/abdullah.pptx/)
+
+#### Fun fact
+
+* ⚡ I call myself **PM Chohan** — “PM” = *Pakistani Munda* (Punjabi for “boy”), and **Chohan** is my family name.
+
